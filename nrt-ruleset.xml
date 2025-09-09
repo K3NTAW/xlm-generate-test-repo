@@ -3,7 +3,7 @@
   <metadata>
     <source-file>Supermarket-Sales-Sample-Data.xlsx</source-file>
     <sheet-name>SuperMarket Sales</sheet-name>
-    <generated-at>2025-09-09T11:47:39.914Z</generated-at>
+    <generated-at>2025-09-09T11:58:28.025Z</generated-at>
     <release>R1.1</release>
     <environment>production</environment>
     <story-number>N/A</story-number>
@@ -138,9 +138,9 @@
       <customer_name>Richard Perez</customer_name>
       <ship_date>09.01.2024</ship_date>
       <retail_price_usd>49.99</retail_price_usd>
-      <order_quantity>3</order_quantity>
-      <tax_usd>14.997</tax_usd>
-      <total_usd>164.96699999999998</total_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>4.9990000000000006</tax_usd>
+      <total_usd>54.989000000000004</total_usd>
     </row>
     <row index="14">
       <order_no>1014</order_no>
@@ -278,9 +278,9 @@
       <customer_name>Matthew Johnson</customer_name>
       <ship_date>18.01.2024</ship_date>
       <retail_price_usd>39.99</retail_price_usd>
-      <order_quantity>3</order_quantity>
-      <tax_usd>11.997</tax_usd>
-      <total_usd>131.96699999999998</total_usd>
+      <order_quantity>7</order_quantity>
+      <tax_usd>27.993000000000002</tax_usd>
+      <total_usd>307.923</total_usd>
     </row>
     <row index="28">
       <order_no>1028</order_no>

@@ -3,7 +3,7 @@
   <metadata>
     <source-file>Supermarket-Sales-Sample-Data.xlsx</source-file>
     <sheet-name>SuperMarket Sales</sheet-name>
-    <generated-at>2025-09-09T11:58:28.025Z</generated-at>
+    <generated-at>2025-09-09T11:59:26.191Z</generated-at>
     <release>R1.1</release>
     <environment>production</environment>
     <story-number>N/A</story-number>
@@ -13,7 +13,7 @@
   </metadata>
   <data>
     <row index="1">
-      <order_no>1001</order_no>
+      <order_no>1000</order_no>
       <order_date>01.01.2024</order_date>
       <customer_name>John Smith</customer_name>
       <ship_date>03.01.2024</ship_date>

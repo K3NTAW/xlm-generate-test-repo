@@ -1,1 +1,716 @@
-Æioz»"¢
+<?xml version="1.0" encoding="UTF-8"?>
+<excel-data>
+  <metadata>
+    <source-file>Supermarket-Sales-Sample-Data.xlsx</source-file>
+    <sheet-name>SuperMarket Sales</sheet-name>
+    <generated-at>2025-09-09T11:47:39.914Z</generated-at>
+    <release>R1.1</release>
+    <environment>production</environment>
+    <story-number>N/A</story-number>
+    <total-rows>70</total-rows>
+    <total-columns>8</total-columns>
+    <header-row>7</header-row>
+  </metadata>
+  <data>
+    <row index="1">
+      <order_no>1001</order_no>
+      <order_date>01.01.2024</order_date>
+      <customer_name>John Smith</customer_name>
+      <ship_date>03.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>9.998000000000001</tax_usd>
+      <total_usd>109.97800000000001</total_usd>
+    </row>
+    <row index="2">
+      <order_no>1002</order_no>
+      <order_date>01.01.2024</order_date>
+      <customer_name>Jane Doe</customer_name>
+      <ship_date>04.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>2.999</tax_usd>
+      <total_usd>32.989</total_usd>
+    </row>
+    <row index="3">
+      <order_no>1003</order_no>
+      <order_date>02.01.2024</order_date>
+      <customer_name>Michael Johnson</customer_name>
+      <ship_date>07.01.2024</ship_date>
+      <retail_price_usd>99.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>29.997</tax_usd>
+      <total_usd>329.967</total_usd>
+    </row>
+    <row index="4">
+      <order_no>1004</order_no>
+      <order_date>02.01.2024</order_date>
+      <customer_name>Emily Brown</customer_name>
+      <ship_date>03.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="5">
+      <order_no>1005</order_no>
+      <order_date>03.01.2024</order_date>
+      <customer_name>David Wilson</customer_name>
+      <ship_date>08.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="6">
+      <order_no>1006</order_no>
+      <order_date>03.01.2024</order_date>
+      <customer_name>Lisa Taylor</customer_name>
+      <ship_date>06.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="7">
+      <order_no>1007</order_no>
+      <order_date>04.01.2024</order_date>
+      <customer_name>Daniel Martinez</customer_name>
+      <ship_date>06.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="8">
+      <order_no>1008</order_no>
+      <order_date>04.01.2024</order_date>
+      <customer_name>Sarah Anderson</customer_name>
+      <ship_date>09.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="9">
+      <order_no>1009</order_no>
+      <order_date>05.01.2024</order_date>
+      <customer_name>Christopher Thomas</customer_name>
+      <ship_date>06.01.2024</ship_date>
+      <retail_price_usd>89.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>8.999</tax_usd>
+      <total_usd>98.98899999999999</total_usd>
+    </row>
+    <row index="10">
+      <order_no>1010</order_no>
+      <order_date>05.01.2024</order_date>
+      <customer_name>Kimberly Garcia</customer_name>
+      <ship_date>08.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="11">
+      <order_no>1011</order_no>
+      <order_date>06.01.2024</order_date>
+      <customer_name>William Hernandez</customer_name>
+      <ship_date>07.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="12">
+      <order_no>1012</order_no>
+      <order_date>06.01.2024</order_date>
+      <customer_name>Melissa Lopez</customer_name>
+      <ship_date>08.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="13">
+      <order_no>1013</order_no>
+      <order_date>07.01.2024</order_date>
+      <customer_name>Richard Perez</customer_name>
+      <ship_date>09.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="14">
+      <order_no>1014</order_no>
+      <order_date>07.01.2024</order_date>
+      <customer_name>Jessica Gonzalez</customer_name>
+      <ship_date>12.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="15">
+      <order_no>1015</order_no>
+      <order_date>08.01.2024</order_date>
+      <customer_name>Matthew Wilson</customer_name>
+      <ship_date>13.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="16">
+      <order_no>1016</order_no>
+      <order_date>08.01.2024</order_date>
+      <customer_name>Amanda Martinez</customer_name>
+      <ship_date>12.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="17">
+      <order_no>1017</order_no>
+      <order_date>09.01.2024</order_date>
+      <customer_name>James Johnson</customer_name>
+      <ship_date>14.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="18">
+      <order_no>1018</order_no>
+      <order_date>09.01.2024</order_date>
+      <customer_name>Laura Brown</customer_name>
+      <ship_date>12.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="19">
+      <order_no>1019</order_no>
+      <order_date>10.01.2024</order_date>
+      <customer_name>Daniel Smith</customer_name>
+      <ship_date>11.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>39.998000000000005</tax_usd>
+      <total_usd>439.978</total_usd>
+    </row>
+    <row index="20">
+      <order_no>1020</order_no>
+      <order_date>10.01.2024</order_date>
+      <customer_name>Jennifer Davis</customer_name>
+      <ship_date>14.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="21">
+      <order_no>1021</order_no>
+      <order_date>11.01.2024</order_date>
+      <customer_name>Michael Garcia</customer_name>
+      <ship_date>14.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="22">
+      <order_no>1022</order_no>
+      <order_date>11.01.2024</order_date>
+      <customer_name>Amy Hernandez</customer_name>
+      <ship_date>15.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="23">
+      <order_no>1023</order_no>
+      <order_date>12.01.2024</order_date>
+      <customer_name>Christopher Rodriguez</customer_name>
+      <ship_date>17.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>51.99600000000001</tax_usd>
+      <total_usd>571.956</total_usd>
+    </row>
+    <row index="24">
+      <order_no>1024</order_no>
+      <order_date>12.01.2024</order_date>
+      <customer_name>Jessica Martinez</customer_name>
+      <ship_date>17.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="25">
+      <order_no>1025</order_no>
+      <order_date>13.01.2024</order_date>
+      <customer_name>David Wilson</customer_name>
+      <ship_date>17.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="26">
+      <order_no>1026</order_no>
+      <order_date>13.01.2024</order_date>
+      <customer_name>Sarah Smith</customer_name>
+      <ship_date>14.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="27">
+      <order_no>1027</order_no>
+      <order_date>14.01.2024</order_date>
+      <customer_name>Matthew Johnson</customer_name>
+      <ship_date>18.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="28">
+      <order_no>1028</order_no>
+      <order_date>14.01.2024</order_date>
+      <customer_name>Emily Davis</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="29">
+      <order_no>1029</order_no>
+      <order_date>15.01.2024</order_date>
+      <customer_name>Daniel Wilson</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="30">
+      <order_no>1030</order_no>
+      <order_date>15.01.2024</order_date>
+      <customer_name>Jennifer Martinez</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="31">
+      <order_no>1031</order_no>
+      <order_date>16.01.2024</order_date>
+      <customer_name>Michael Smith</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="32">
+      <order_no>1032</order_no>
+      <order_date>16.01.2024</order_date>
+      <customer_name>Jessica Johnson</customer_name>
+      <ship_date>17.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="33">
+      <order_no>1033</order_no>
+      <order_date>17.01.2024</order_date>
+      <customer_name>David Brown</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="34">
+      <order_no>1034</order_no>
+      <order_date>17.01.2024</order_date>
+      <customer_name>Sarah Garcia</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="35">
+      <order_no>1035</order_no>
+      <order_date>18.01.2024</order_date>
+      <customer_name>Matthew Hernandez</customer_name>
+      <ship_date>23.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="36">
+      <order_no>1036</order_no>
+      <order_date>18.01.2024</order_date>
+      <customer_name>Emily Rodriguez</customer_name>
+      <ship_date>19.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="37">
+      <order_no>1037</order_no>
+      <order_date>19.01.2024</order_date>
+      <customer_name>Daniel Davis</customer_name>
+      <ship_date>20.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="38">
+      <order_no>1038</order_no>
+      <order_date>19.01.2024</order_date>
+      <customer_name>Jennifer Smith</customer_name>
+      <ship_date>22.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="39">
+      <order_no>1039</order_no>
+      <order_date>20.01.2024</order_date>
+      <customer_name>Michael Johnson</customer_name>
+      <ship_date>24.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="40">
+      <order_no>1040</order_no>
+      <order_date>20.01.2024</order_date>
+      <customer_name>Jessica Martinez</customer_name>
+      <ship_date>21.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="41">
+      <order_no>1041</order_no>
+      <order_date>21.01.2024</order_date>
+      <customer_name>David Wilson</customer_name>
+      <ship_date>26.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="42">
+      <order_no>1042</order_no>
+      <order_date>21.01.2024</order_date>
+      <customer_name>Sarah Johnson</customer_name>
+      <ship_date>23.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="43">
+      <order_no>1043</order_no>
+      <order_date>22.01.2024</order_date>
+      <customer_name>Matthew Garcia</customer_name>
+      <ship_date>25.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="44">
+      <order_no>1044</order_no>
+      <order_date>22.01.2024</order_date>
+      <customer_name>Emily Brown</customer_name>
+      <ship_date>25.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="45">
+      <order_no>1045</order_no>
+      <order_date>23.01.2024</order_date>
+      <customer_name>Daniel Hernandez</customer_name>
+      <ship_date>27.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="46">
+      <order_no>1046</order_no>
+      <order_date>23.01.2024</order_date>
+      <customer_name>Jennifer Davis</customer_name>
+      <ship_date>26.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="47">
+      <order_no>1047</order_no>
+      <order_date>24.01.2024</order_date>
+      <customer_name>Michael Martinez</customer_name>
+      <ship_date>25.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="48">
+      <order_no>1048</order_no>
+      <order_date>24.01.2024</order_date>
+      <customer_name>Jessica Wilson</customer_name>
+      <ship_date>26.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="49">
+      <order_no>1049</order_no>
+      <order_date>25.01.2024</order_date>
+      <customer_name>David Rodriguez</customer_name>
+      <ship_date>30.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="50">
+      <order_no>1050</order_no>
+      <order_date>25.01.2024</order_date>
+      <customer_name>Sarah Gonzalez</customer_name>
+      <ship_date>27.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="51">
+      <order_no>1051</order_no>
+      <order_date>26.01.2024</order_date>
+      <customer_name>Matthew Smith</customer_name>
+      <ship_date>29.01.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="52">
+      <order_no>1052</order_no>
+      <order_date>26.01.2024</order_date>
+      <customer_name>Emily Johnson</customer_name>
+      <ship_date>28.01.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="53">
+      <order_no>1053</order_no>
+      <order_date>27.01.2024</order_date>
+      <customer_name>Daniel Brown</customer_name>
+      <ship_date>31.01.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="54">
+      <order_no>1054</order_no>
+      <order_date>27.01.2024</order_date>
+      <customer_name>Jennifer Hernandez</customer_name>
+      <ship_date>31.01.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="55">
+      <order_no>1055</order_no>
+      <order_date>28.01.2024</order_date>
+      <customer_name>Michael Davis</customer_name>
+      <ship_date>29.01.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="56">
+      <order_no>1056</order_no>
+      <order_date>28.01.2024</order_date>
+      <customer_name>Jessica Smith</customer_name>
+      <ship_date>29.01.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="57">
+      <order_no>1057</order_no>
+      <order_date>29.01.2024</order_date>
+      <customer_name>David Martinez</customer_name>
+      <ship_date>30.01.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="58">
+      <order_no>1058</order_no>
+      <order_date>29.01.2024</order_date>
+      <customer_name>Sarah Johnson</customer_name>
+      <ship_date>31.01.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="59">
+      <order_no>1059</order_no>
+      <order_date>30.01.2024</order_date>
+      <customer_name>Matthew Garcia</customer_name>
+      <ship_date>31.01.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="60">
+      <order_no>1060</order_no>
+      <order_date>30.01.2024</order_date>
+      <customer_name>Emily Brown</customer_name>
+      <ship_date>01.02.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="61">
+      <order_no>1061</order_no>
+      <order_date>31.01.2024</order_date>
+      <customer_name>Daniel Hernandez</customer_name>
+      <ship_date>02.02.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+    <row index="62">
+      <order_no>1062</order_no>
+      <order_date>31.01.2024</order_date>
+      <customer_name>Jennifer Davis</customer_name>
+      <ship_date>04.02.2024</ship_date>
+      <retail_price_usd>69.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>13.998</tax_usd>
+      <total_usd>153.97799999999998</total_usd>
+    </row>
+    <row index="63">
+      <order_no>1063</order_no>
+      <order_date>01.02.2024</order_date>
+      <customer_name>Michael Martinez</customer_name>
+      <ship_date>02.02.2024</ship_date>
+      <retail_price_usd>39.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>11.997</tax_usd>
+      <total_usd>131.96699999999998</total_usd>
+    </row>
+    <row index="64">
+      <order_no>1064</order_no>
+      <order_date>01.02.2024</order_date>
+      <customer_name>Jessica Wilson</customer_name>
+      <ship_date>05.02.2024</ship_date>
+      <retail_price_usd>199.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>19.999000000000002</tax_usd>
+      <total_usd>219.989</total_usd>
+    </row>
+    <row index="65">
+      <order_no>1065</order_no>
+      <order_date>01.02.2024</order_date>
+      <customer_name>David Rodriguez</customer_name>
+      <ship_date>03.02.2024</ship_date>
+      <retail_price_usd>29.99</retail_price_usd>
+      <order_quantity>5</order_quantity>
+      <tax_usd>14.995</tax_usd>
+      <total_usd>164.945</total_usd>
+    </row>
+    <row index="66">
+      <order_no>1066</order_no>
+      <order_date>02.02.2024</order_date>
+      <customer_name>Sarah Gonzalez</customer_name>
+      <ship_date>06.02.2024</ship_date>
+      <retail_price_usd>79.99</retail_price_usd>
+      <order_quantity>2</order_quantity>
+      <tax_usd>15.998</tax_usd>
+      <total_usd>175.97799999999998</total_usd>
+    </row>
+    <row index="67">
+      <order_no>1067</order_no>
+      <order_date>03.02.2024</order_date>
+      <customer_name>Matthew Smith</customer_name>
+      <ship_date>06.02.2024</ship_date>
+      <retail_price_usd>49.99</retail_price_usd>
+      <order_quantity>3</order_quantity>
+      <tax_usd>14.997</tax_usd>
+      <total_usd>164.96699999999998</total_usd>
+    </row>
+    <row index="68">
+      <order_no>1068</order_no>
+      <order_date>04.02.2024</order_date>
+      <customer_name>Emily Johnson</customer_name>
+      <ship_date>05.02.2024</ship_date>
+      <retail_price_usd>129.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>12.999000000000002</tax_usd>
+      <total_usd>142.989</total_usd>
+    </row>
+    <row index="69">
+      <order_no>1069</order_no>
+      <order_date>04.02.2024</order_date>
+      <customer_name>Daniel Brown</customer_name>
+      <ship_date>08.02.2024</ship_date>
+      <retail_price_usd>19.99</retail_price_usd>
+      <order_quantity>4</order_quantity>
+      <tax_usd>7.9959999999999996</tax_usd>
+      <total_usd>87.95599999999999</total_usd>
+    </row>
+    <row index="70">
+      <order_no>1070</order_no>
+      <order_date>04.02.2024</order_date>
+      <customer_name>Jennifer Hernandez</customer_name>
+      <ship_date>07.02.2024</ship_date>
+      <retail_price_usd>149.99</retail_price_usd>
+      <order_quantity>1</order_quantity>
+      <tax_usd>14.999000000000002</tax_usd>
+      <total_usd>164.989</total_usd>
+    </row>
+  </data>
+</excel-data>

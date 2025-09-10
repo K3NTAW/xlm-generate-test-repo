@@ -3,8 +3,8 @@
   <metadata>
     <source-file>Supermarket-Sales-Sample-Data.xlsx</source-file>
     <sheet-name>SuperMarket Sales</sheet-name>
-    <generated-at>2025-09-09T11:59:26.191Z</generated-at>
-    <release>R1.1</release>
+    <generated-at>2025-09-10T07:26:48.262Z</generated-at>
+    <release>R1.2</release>
     <environment>production</environment>
     <story-number>N/A</story-number>
     <total-rows>70</total-rows>

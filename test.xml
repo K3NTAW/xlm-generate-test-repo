@@ -5,7 +5,7 @@
     <sheet-name>Sheet1</sheet-name>
     <release>R1.0</release>
     <environment>production</environment>
-    <story-number>N/A</story-number>
+    <story-number>Story-2412</story-number>
     <total-rows>1</total-rows>
     <total-columns>4</total-columns>
     <header-row>1</header-row>
@@ -15,7 +15,7 @@
       <test></test>
       <data></data>
       <kenta></kenta>
-      <column_4>demo</column_4>
+      <column_4>demo showcase</column_4>
     </row>
   </data>
 </excel-data>

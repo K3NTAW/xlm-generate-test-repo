@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel-data>
+  <metadata>
+    <source-file>test.xlsx</source-file>
+    <sheet-name>Sheet1</sheet-name>
+    <release>R1.0</release>
+    <environment>production</environment>
+    <story-number>N/A</story-number>
+    <total-rows>1</total-rows>
+    <total-columns>4</total-columns>
+    <header-row>1</header-row>
+  </metadata>
+  <data>
+    <row index="1">
+      <test></test>
+      <data></data>
+      <kenta></kenta>
+      <column_4>demo</column_4>
+    </row>
+  </data>
+</excel-data>
